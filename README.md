@@ -1,3 +1,20 @@
+thundervoice bexio Connector
+================
+
+Easy to use bexio with powerfull API.
+
+### Installation
+
+Use composer:
+
+```bash
+$ composer require thundervoice/bexio
+```
+
+### Docs & Sources
+
+- [Documentation](http://docs.bexio.com)
+
 # bexio
 
 For more Details see the bexio API Docs Page https://docs.bexio.com/
