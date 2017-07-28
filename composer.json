@@ -1,0 +1,24 @@
+{
+	"name": "thundervoice\bexio",
+	"version": "1.0.0",
+	"homepage": "http://www.gallus-informatik.ch/",
+	"type": "library",
+	"description": "API Connector for bexio. This is a online accounting Business Software.",
+	"keywords": ["bexio","bexio connector","bexio api","thundervoice"],
+	"license": "LGPLv3",
+	"authors": [
+	{
+		"name": "Alain J. Liechti",
+		"email": "info@gallus-informatik.com",
+		"homepage": "http://www.gallus-informatik.ch"
+	},{
+		"name" : "iBROWS GmbH in Wattwil, Switzerland Stefan Scheu + Marcel Lenz",
+		"homepage": "http://www.ibrows.ch"
+	}],
+	"require": {
+		"php": ">=5.6"
+	},
+	"autoload": {
+		"classmap": ["src"]
+	}
+}
